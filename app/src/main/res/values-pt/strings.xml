@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_btn_login">Login</string>
+    <string name="lbl_btn_request">Solicitar</string>
+    <string name="lbl_delivery_date">Data de entrega</string>
+    <string name="lbl_quantity">Quantidade</string>
+    <string name="lbl_options">Opções</string>
+    <string name="lbl_flavor">Sabor</string>
+    <string name="lbl_value">Valor R$</string>
+    <string name="lbl_requesting">Solicitando</string>
+    <string name="lbl_truffle">Trufa (s)</string>
+</resources>

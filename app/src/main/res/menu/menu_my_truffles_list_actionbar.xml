@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_1"
+        android:title="Sugerir sabor" />
+
+    <item
+        android:id="@+id/menu_2"
+        android:title="Meus pedidos" />
+
+    <item
+        android:id="@+id/menu_3"
+        android:title="@string/action_settings" />
+
+</menu>
